@@ -21,6 +21,18 @@
 
 6. ¿Que es HTML?
 
+Es un Lenguaje de Marcado de Hipertexto, y es el código que se utiliza para estructurar y desplegar una página web y sus contenidos.
+
+```
+<html> 
+    <head>
+    </head>
+    <body>
+        <p>Esto es un párrafo</p>
+    <body>
+<html>
+```
+
 7. ¿Que es CSS?
 
 8. Flujo de trabajo (navegador, peticion, servidor y respuesta )
