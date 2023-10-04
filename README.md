@@ -12,11 +12,11 @@
 
 |Aplicaciones.|Visto.|
 |---------------|:------------:|
-|Google Docs|centrada|35€|
-|Google Slides| derecha|134€|
-|Google Shetts|Gris|Blanco|
-|Google Calendar|M4|
-|Google Meet|M4|
+|Google Docs|![Esto es una foto de prueba](https://github.com/QuicoSanchez/ASIX1-M4-UF1-A2-Evaluacion_Inicial/blob/main/Visto%20.png "Titulo opcional de la imagen")|
+|Google Slides|![Esto es una foto de prueba](https://github.com/QuicoSanchez/ASIX1-M4-UF1-A2-Evaluacion_Inicial/blob/main/Visto%20.png "Titulo opcional de la imagen")|
+|Google Shetts|![Esto es una foto de prueba](https://github.com/QuicoSanchez/ASIX1-M4-UF1-A2-Evaluacion_Inicial/blob/main/Visto%20.png "Titulo opcional de la imagen")|
+|Google Calendar|![Esto es una foto de prueba](https://github.com/QuicoSanchez/ASIX1-M4-UF1-A2-Evaluacion_Inicial/blob/main/Calendar.png "Titulo opcional de la imagen")|
+|Google Meet|![Esto es una foto de prueba](https://github.com/QuicoSanchez/ASIX1-M4-UF1-A2-Evaluacion_Inicial/blob/main/Meet.png "Titulo opcional de la imagen")|
 |...|...|
 
 6. ¿Que es HTML?
