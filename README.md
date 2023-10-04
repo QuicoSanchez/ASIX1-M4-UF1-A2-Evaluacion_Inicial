@@ -8,7 +8,7 @@
 
 4. Que es una herramienta ofimatica?
 
-5. [Esto es un enlance](https://www.google.com/intl/es-419/chrome/browser-tools/ "Herramientas de Google")
+5. [Herramientas de Google](https://www.google.com/intl/es-419/chrome/browser-tools/ "Herramientas de Google")
 
 |Aplicaciones.|Visto.|
 |---------------|:------------:|
