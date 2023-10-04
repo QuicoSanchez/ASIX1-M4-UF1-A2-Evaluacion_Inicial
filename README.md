@@ -36,3 +36,5 @@ Es un Lenguaje de Marcado de Hipertexto, y es el código que se utiliza para est
 7. ¿Que es CSS?
 
 8. Flujo de trabajo (navegador, peticion, servidor y respuesta )
+
+![Esto es una foto de prueba](https://github.com/QuicoSanchez/ASIX1-M4-UF1-A2-Evaluacion_Inicial/blob/main/Flujo%20de%20Trabajo.png "Titulo opcional de la imagen")
